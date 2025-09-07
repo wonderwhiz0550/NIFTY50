@@ -1,0 +1,9 @@
+# requirements.txt
+yfinance
+pandas
+numpy
+twilio
+streamlit
+plotly
+python-dotenv
+schedule
